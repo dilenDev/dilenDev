@@ -7,3 +7,6 @@ Proficient in JAVA, Native Android Development, and Flutter Development.
 Passionate about implementing and launching new projects.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilenDev)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilenDev&show_icons=true&theme=radical)
+
