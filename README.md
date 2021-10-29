@@ -21,10 +21,13 @@ Passionate about implementing and launching new projects.
  
 
 ### Info
-- 🌱 I’m currently learning Mobile Development 
+- 🌱 I’m currently learning everything
+- 🎯 Focused on Mobile Devolopment
 - 👯 I’m looking to collaborate on Entry level Development and Designing Projects 
-- 🤔 I’m looking for help with Seeking a meaningful role to begin a career in Mobile Development  
-- ⚡ Fun fact: Programming Level - Intermediate  
+- 🤔 Seeking a meaningful role to begin a career in Mobile Development 
+- 🥅 Goals: Deploy commercial level appliation to mobile store 
+- ⚡ Fun fact: Programming Level - Intermediate 
+- 🖤 Love to project design
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilenDev&layout=compact&theme=radical)](https://github.com/dilenDev/github-readme-stats)
 
