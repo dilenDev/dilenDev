@@ -20,7 +20,7 @@ Passionate about implementing and launching new projects.
 
 ### Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@hpdc00-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hpdc00)](https://twitter.com/hpdc00) [![Linkedin Badge](https://img.shields.io/badge/-Dilan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilan-chathuranga) [![Mail Badge](https://img.shields.io/badge/-hpdilen-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hpdilen@gmail.com) [![Yahoo Badge](https://img.shields.io/badge/-hpdilen-720b98?style=flat&labelColor=c0392b&logo=yahoo&logoColor=white)](mailto:hpdilen@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@hpdc00-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hpdc00)](https://twitter.com/hpdc00) [![Linkedin Badge](https://img.shields.io/badge/-Dilan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilan-chathuranga) [![Mail Badge](https://img.shields.io/badge/-hpdilen-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hpdilen@gmail.com) [![Yahoo Badge](https://img.shields.io/badge/-dilanchathuranga-720b98?style=flat&labelColor=720b98&logo=yahoo&logoColor=white)](mailto:dilanchathuranga@yahoo.com.au)
 
  
 
