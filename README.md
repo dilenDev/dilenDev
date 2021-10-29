@@ -15,9 +15,6 @@ Skills: JAVA/ ANDROID / FLUTTER / XD
 - 🤔 I’m looking for help with Seeking a meaningful role to begin a career in Mobile Development  
 - ⚡ Fun fact: Programming Level - Intermediate  
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dilenDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/dilan-chathuranga/)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=dilenDev)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilenDev)](https://github.com/anuraghazra/github-readme-stats)
