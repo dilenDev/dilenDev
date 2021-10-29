@@ -16,7 +16,7 @@ Passionate about implementing and launching new projects.
 - 🖌️ XD
 
 ### Connections
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dilenDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/dilan-chathuranga/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@hpdc00)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dilenDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/dilan-chathuranga/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@hpdc00)  
 
  
 
@@ -25,13 +25,6 @@ Passionate about implementing and launching new projects.
 - 👯 I’m looking to collaborate on Entry level Development and Designing Projects 
 - 🤔 I’m looking for help with Seeking a meaningful role to begin a career in Mobile Development  
 - ⚡ Fun fact: Programming Level - Intermediate  
-
-
-
-
-
-
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilenDev&show_icons=true&theme=radical)
