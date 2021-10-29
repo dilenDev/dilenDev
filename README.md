@@ -17,7 +17,7 @@ Passionate about implementing and launching new projects.
 
 ### Top Technologies
 
-[![Flutter Badge](https://img.shields.io/badge/-Flutter-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)]
+![Flutter Badge](https://img.shields.io/badge/-Flutter-61DBFB?style=for-the-badge&labelColor=black&logo=flutter&logoColor=61DBFB)
 
 ### Reach me out!
 
