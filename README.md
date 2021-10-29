@@ -26,9 +26,10 @@ Passionate about implementing and launching new projects.
 - 🤔 I’m looking for help with Seeking a meaningful role to begin a career in Mobile Development  
 - ⚡ Fun fact: Programming Level - Intermediate  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilenDev&layout=compact&theme=radical)](https://github.com/dilenDev/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilenDev&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilenDev&layout=compact&theme=radical)](https://github.com/dilenDev/github-readme-stats)
+
 
 
