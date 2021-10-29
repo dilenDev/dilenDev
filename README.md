@@ -17,8 +17,7 @@ Passionate about implementing and launching new projects.
 
 ### Languages and Tools
 
-<img src='https://github.com/dilenDev/dilenDev/blob/main/figma-gif.gif' alt='github' width='26px' >
-<img src='https://github.com/dilenDev/dilenDev/blob/main/figma-gif.gif' alt='github' width='26px' >
+<img src='https://github.com/dilenDev/dilenDev/blob/main/figma-gif.gif' alt='github' width='26px' > <img src='https://github.com/dilenDev/dilenDev/blob/main/figma-gif.gif' alt='github' width='26px' >
 <img src='https://github.com/dilenDev/dilenDev/blob/main/figma-gif.gif' alt='github' width='26px' >
 <img src='https://github.com/dilenDev/dilenDev/blob/main/figma-gif.gif' alt='github' width='26px' >
 <img src='https://github.com/dilenDev/dilenDev/blob/main/figma-gif.gif' alt='github' width='26px' >
