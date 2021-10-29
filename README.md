@@ -21,7 +21,7 @@ Passionate about implementing and launching new projects.
  
 
 ### Info
-- 🌱 I’m currently learning Flutter Mobile Development 
+- 🌱 I’m currently learning Mobile Development 
 - 👯 I’m looking to collaborate on Entry level Development and Designing Projects 
 - 🤔 I’m looking for help with Seeking a meaningful role to begin a career in Mobile Development  
 - ⚡ Fun fact: Programming Level - Intermediate  
