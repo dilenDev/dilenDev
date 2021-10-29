@@ -15,7 +15,7 @@ Passionate about implementing and launching new projects.
 <img src='https://github.com/dilenDev/dilenDev/blob/main/flutter.png' alt='flutter' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/dart.png' alt='dart' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/android.png' alt='andrroid' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/vs.png' alt='vs code' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/android-studio.png' alt='android studio' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/java-gif.gif' alt='java' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/xd-gif.gif' alt='adobe XD' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/figma-gif.gif' alt='figma' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/git-gif.gif' alt='github' width='26px' >
 </pre>
 
-:mailbox: ### Reach me out!
+### Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@hpdc00-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hpdc00)](https://twitter.com/hpdc00) [![Linkedin Badge](https://img.shields.io/badge/-dilenDev-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilan-chathuranga) [![Mail Badge](https://img.shields.io/badge/-hpdilen-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hpdilen@gmail.com) 
 
