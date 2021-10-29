@@ -12,14 +12,7 @@ Passionate about implementing and launching new projects.
 ### Languages and Tools
 
 <pre>
-<img src='https://github.com/dilenDev/dilenDev/blob/main/flutter.png' alt='flutter' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/dart.png' alt='dart' width='26px' >
-<img src='https://github.com/dilenDev/dilenDev/blob/main/android.png' alt='andrroid' width='26px' >
-<img src='https://github.com/dilenDev/dilenDev/blob/main/vs.png' alt='vs code' width='26px' >
-<img src='https://github.com/dilenDev/dilenDev/blob/main/android-studio.png' alt='android studio' width='26px' >
-<img src='https://github.com/dilenDev/dilenDev/blob/main/java-gif.gif' alt='java' width='26px' >
-<img src='https://github.com/dilenDev/dilenDev/blob/main/xd-gif.gif' alt='adobe XD' width='26px' >
-<img src='https://github.com/dilenDev/dilenDev/blob/main/figma-gif.gif' alt='figma' width='26px' >
-<img src='https://github.com/dilenDev/dilenDev/blob/main/git-gif.gif' alt='github' width='26px' >
+<img src='https://github.com/dilenDev/dilenDev/blob/main/flutter.png' alt='flutter' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/dart.png' alt='dart' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/android.png' alt='andrroid' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/vs.png' alt='vs code' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/android-studio.png' alt='android studio' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/java-gif.gif' alt='java' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/xd-gif.gif' alt='adobe XD' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/figma-gif.gif' alt='figma' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/git-gif.gif' alt='github' width='26px' >
 </pre>
 
 ### Connections
