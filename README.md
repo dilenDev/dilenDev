@@ -8,16 +8,10 @@
 I am a recent University graduated from the University of Plymouth at NSBM school of computing with a bachelor's degree in Software Engineering. Throughout my education, I have been skilled with a strong foundation in implementing and integration with intuitive problem-solving skills, Ability to translate business requirements into technical solutions, And a willingness to grow new intellectual technology skills with a self-motivated development environment.
 Passionate about implementing and launching new projects.
 
-### Skills
-
-- ☕ JAVA
-- 📱 NATIVE ANDROID
-- 📱 FLUTTER
-- 🖌️ XD
 
 ### Languages and Tools
 
-<img src='https://github.com/dilenDev/dilenDev/blob/main/flutter.png' alt='flutter' width='26px' > <img src='https://github.com/dilenDev/dilenDev/blob/main/dart.png' alt='dart' width='26px' >
+<img src='https://github.com/dilenDev/dilenDev/blob/main/flutter.png' alt='flutter' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/dart.png' alt='dart' width='26px' >
 <img src='https://github.com/dilenDev/dilenDev/blob/main/android.png' alt='andrroid' width='26px' >
 <img src='https://github.com/dilenDev/dilenDev/blob/main/vs.png' alt='vs code' width='26px' >
 <img src='https://github.com/dilenDev/dilenDev/blob/main/android-studio.png' alt='android studio' width='26px' >
