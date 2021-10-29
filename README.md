@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Dilan Chathuranga
 #### From Sri Lanka
 #### Mobile Design & Development
-![Mobile Design & Development](https://media-exp1.licdn.com/dms/image/C5616AQGs-G87N8aARw/profile-displaybackgroundimage-shrink_200_800/0/1635485741481?e=1640822400&v=beta&t=fn8gKfLSZIYSOklNPbk7A9-kEpCUeXE-438vK-tw-1w)
+![Mobile Design & Development](https://github.com/dilenDev/dilenDev/blob/main/Simple%20Technology.png)
 
 I am a recent University graduated from the University of Plymouth at NSBM school of computing with a bachelor's degree in Software Engineering. Throughout my education, I have been skilled with a strong foundation in implementing and integration with intuitive problem-solving skills, Ability to translate business requirements into technical solutions, And a willingness to grow new intellectual technology skills with a self-motivated development environment.
 Passionate about implementing and launching new projects.
