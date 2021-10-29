@@ -11,7 +11,7 @@ Passionate about implementing and launching new projects.
 ### Skills
 
 - ☕ JAVA
-- 📱 ANDROID
+- 📱 NATIVE ANDROID
 - 📱 FLUTTER
 - 🖌️ XD
 
