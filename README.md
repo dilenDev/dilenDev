@@ -29,6 +29,6 @@ Passionate about implementing and launching new projects.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilenDev&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilenDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilenDev&layout=compact&theme=radical)](https://github.com/dilenDev/github-readme-stats)
 
 
