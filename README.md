@@ -15,8 +15,9 @@ Passionate about implementing and launching new projects.
 <img src='https://github.com/dilenDev/dilenDev/blob/main/flutter.png' alt='flutter' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/dart.png' alt='dart' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/android.png' alt='andrroid' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/vs.png' alt='vs code' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/android-studio.png' alt='android studio' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/java-gif.gif' alt='java' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/xd-gif.gif' alt='adobe XD' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/figma-gif.gif' alt='figma' width='26px' >   <img src='https://github.com/dilenDev/dilenDev/blob/main/git-gif.gif' alt='github' width='26px' >
 </pre>
 
-### Connections
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dilenDev)  [<img src='https://icons8.com/icon/5r7axn9IZ0NL/linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/dilan-chathuranga/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@hpdc00)  
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com) 
 
  
 
