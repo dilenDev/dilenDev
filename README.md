@@ -1,6 +1,6 @@
-### Hi there 👋
 
-### Hi there 👋, Dilan Chathuranga
+
+### Hi there 👋, I'm Dilan Chathuranga from Sri Lanka
 #### Mobile Design & Development
 ![Mobile Design & Development](https://media-exp1.licdn.com/dms/image/C5616AQGs-G87N8aARw/profile-displaybackgroundimage-shrink_200_800/0/1635485741481?e=1640822400&v=beta&t=fn8gKfLSZIYSOklNPbk7A9-kEpCUeXE-438vK-tw-1w)
 
@@ -9,7 +9,7 @@ Passionate about implementing and launching new projects.
 
 Skills: JAVA/ ANDROID / FLUTTER / XD
 
-- 🌱 I’m currently learning Flutter Mobile Development 
+- 🌱 I’m currently learning Flutter Framework
 - 👯 I’m looking to collaborate on Entry level Development and Designing Projects 
 - 🤔 I’m looking for help with Seeking a meaningful role to begin a career in Mobile Development  
 - ⚡ Fun fact: Programming Level - Intermediate  
